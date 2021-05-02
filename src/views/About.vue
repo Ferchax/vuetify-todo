@@ -1,5 +1,8 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div class="about pa-6">
+    <h1>About Vuetify Todo</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tortor mauris, iaculis vel accumsan elementum, porttitor ac magna. Cras sed sollicitudin tortor. Duis at odio mauris. Quisque vehicula, massa eu tincidunt porta, metus odio ultricies sapien, non maximus felis dui id dui. Donec elementum libero ac finibus dictum. Maecenas a risus ligula. Sed ultrices turpis sit amet cursus congue. Nunc leo odio, interdum pharetra volutpat sit amet, luctus nec purus. Sed ultricies gravida tincidunt. Mauris in urna et nunc ultrices faucibus et vel felis.</p>
+    <p>Proin vestibulum lacus sit amet dolor finibus euismod. Donec et turpis neque. Vestibulum iaculis turpis ornare varius tristique. Pellentesque ut felis eget tellus ultrices efficitur. Suspendisse potenti. Nunc ut mauris nisl. Vestibulum eu fringilla elit. Vivamus vel nunc euismod, finibus erat et, porttitor purus. Duis id mauris metus. Integer cursus diam a est efficitur porta. Nam ex dolor, rutrum a ex nec, lacinia porttitor purus. Quisque et porttitor purus. Vestibulum pellentesque gravida nisi eu tempus. Sed ultricies turpis magna, ut mollis lectus iaculis at. Mauris tellus nulla, vestibulum nec rhoncus eu, eleifend non tellus. Nunc molestie efficitur urna, non euismod risus blandit volutpat.</p>
+    <p>In vitae felis metus. Morbi non hendrerit nisl, non eleifend ante. Donec convallis orci a nibh porta, ut fringilla diam faucibus. Donec vitae efficitur velit, sed viverra tellus. Praesent vel dictum orci. Vivamus suscipit ex sit amet ex commodo, nec commodo dui fringilla. Morbi eget augue nec diam malesuada mollis vel a felis. Duis luctus pretium dolor, in pellentesque nisl facilisis et. Etiam fermentum, eros pretium lobortis sagittis, purus massa sodales enim, non mollis mi eros ut velit. Etiam mauris quam, lacinia vel condimentum vitae, vehicula ut est. Duis eleifend tortor eu tristique cursus.</p>
   </div>
 </template>
